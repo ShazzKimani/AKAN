@@ -19,5 +19,12 @@ function akanName() {
       }
     
     
-      if (yy.toString().length !== 4)  { // year validation
+    if (yy.toString().length !== 4)  { // year validation
         alert("Enter a valid year");
+    } else if (maleGender.checked) {
+        alert(
+          "Hello Sir, your day of birth is " + // output
+          daysOfTheWeek[dayBorn] +
+          ", and your Akan name is " +
+          maleNames[dayBorn]
+        );
