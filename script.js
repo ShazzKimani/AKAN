@@ -14,3 +14,10 @@ function akanName() {
     if (dd < 1 || dd > 31) {
         alert("Enter a valid day!"); // month validation
       }
+    if (mm < 1 || mm > 12) {
+        alert("Enter valid month");
+      }
+    
+    
+      if (yy.toString().length !== 4)  { // year validation
+        alert("Enter a valid year");
