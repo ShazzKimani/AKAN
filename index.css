@@ -17,3 +17,9 @@ p{
 h3{
     font-style: oblique;
 }
+
+form {
+    padding-top: 60px;
+    padding-left: 100px;
+    padding-bottom: 20px;
+}
