@@ -1,4 +1,9 @@
 # AKAN-NAMING-GENERATOR
+## Author
+
+* SHARON KIMANI
+
+## Description
 
 Akan Naming Generator is a web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name.Akan names are derived from Ghanian culture.
 
@@ -14,9 +19,19 @@ Akan Naming Generator is a web application that takes a user's birthday and calc
 
 JSFiddle or JavaScript Console
 
+## Known Bugs
+
+* No known bugs detected.
+
 ### Setup Instructions and Installation
 
-* Clone this repository to a location in your file system. 'git clone 
+* Clone this repository to a location in your file system.
+* git clone 
+
+## Live link
+
+* 
+
 
 ## Behaviour Driven Development
 
@@ -47,14 +62,14 @@ To fix a bug or enhance an existing module, follow these steps:
 - Push to the branch (git push origin improve-feature)
 - Create a Pull Request
 
+## Contact
 
-## Known Bugs
-
-* No known bugs detected.
+* Incase of anything, please reach out via sharonlimani01@gmail.com
 
 ## License
 
 * The MIT License (MIT)
+
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
