@@ -3,3 +3,9 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
 }
+
+.jumbotron{
+    border-radius: 10%;
+    background-color: rgb(170, 191, 250);
+
+}
