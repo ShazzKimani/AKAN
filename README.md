@@ -29,8 +29,7 @@ JSFiddle or JavaScript Console
 * git clone https://github.com/ShazzKimani/AKAN.git
 ## Live link
 
-* shazzkimani.github.io/akan/
-
+* https://shazzkimani.github.io/AKAN/
 
 ## Behaviour Driven Development
 
