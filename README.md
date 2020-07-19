@@ -26,8 +26,7 @@ JSFiddle or JavaScript Console
 ### Setup Instructions and Installation
 
 * Clone this repository to a location in your file system.
-* git clone shazzkimani.github.io/akan/
-
+* git clone https://github.com/ShazzKimani/AKAN.git
 ## Live link
 
 * shazzkimani.github.io/akan/
